@@ -1,7 +1,10 @@
 # reactProject1
 
-Этот проект является частью цикла <a href='https://reactkitchen.wordpress.com/spa-react-project/'>статей</a> о создании изоморфного SPA приложения на реакте.
-<a href='https://reactkitchen.wordpress.com/reactproject-v1/'>Более подробно об этом проекте</a>
+Этот проект является <a href='https://reactkitchen.wordpress.com/reactproject-v1/'>первой частью</a> цикла <a href='https://reactkitchen.wordpress.com/spa-react-project/'>статей</a> о создании изоморфного SPA приложения на реакте.
+
+### Цель проекта:
+
+Рендеринг реакт компонентов на клиенте и сервере.
 
 ### Как начать:
 
